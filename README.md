@@ -2,9 +2,11 @@
 <h3>A junior programmer from Argentina</h3>
 <br>
 <p align="center">
-    **Working with Javascript**, testing and doing lot of fun things in my free time.\n
-    I started learning C in highSchool, used it a lot for doing electronic stuff, but too slow to develop something with my anxious and nervous head. Love C and sometimes i practice with it in order to not lose all that knowledge.\n
-    Currently using Javascript for the most of my projects and teaching it at **CoderHouse**.
+    <strong>Working with Javascript</strong>, testing and doing lot of fun things in my free time.
+    <br>
+    I started learning C in highSchool, used it a lot for doing electronic stuff, but too slow to develop something with my anxious and nervous head. Love C and sometimes i practice with it in order to not lose all that knowledge.
+    <br>
+    Currently using Javascript for the most of my projects and teaching it at <strong>CoderHouse</strong>.
 </p>
 
 - 🌱 I’m currently learning **.NET(C#)** and making better my **Javascript** skills
