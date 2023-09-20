@@ -70,9 +70,18 @@
 
 <h3 align="left">How to contact me: <a href="https://linkedin.com/in/el-tupac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="el-tupac" height="30" width="40" /></a></h3>
 
+## My Recent Articles
 
 
 <table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KgNh0cWy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k5i4hsjzqp5m2fwl1661.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/comunicacion-escalable-esto-no-es-solo-codigo-55lp">Comunicación escalable, esto no es solo código</a>
+                <div>Foto de Nick Fewings en Unsplash  Artículo de la serie ¿Que es escalable?, Y que lo es en el...</div>
+                <div><i>07/09/2023</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7oReiVwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xrayu7mn8nvfjy7sg0bo.jpg" alt="thumbnail"></td>
             <td>
