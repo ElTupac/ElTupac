@@ -69,3 +69,24 @@
 </h3>
 
 <h3 align="left">How to contact me: <a href="https://linkedin.com/in/el-tupac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="el-tupac" height="30" width="40" /></a></h3>
+
+
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7oReiVwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xrayu7mn8nvfjy7sg0bo.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/que-no-es-escalabilidad-el-sentido-comun-de-lo-que-es-escalable-4lci">¿Que no es escalabilidad? El sentido común de lo que...</a>
+                <div>Foto de Artem Maltsev en Unsplash  Artículo de la serie ¿Que es escalable?, Y que lo es en el...</div>
+                <div><i>07/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GK19W7qa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuwjd63w9pi5v8t9kp6q.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/que-es-escalable-y-que-lo-es-en-el-desarrollo-frontend-4loj">¿Que es escalable?, Y que lo es en el desarrollo...</a>
+                <div>Photo by Jacopo Maia on Unsplash     Esto será la introducción a una serie de artículos que iré...</div>
+                <div><i>06/09/2023</i></div>
+            </td>
+        </tr>
+</table>
