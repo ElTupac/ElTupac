@@ -70,4 +70,5 @@
 
 <h3 align="left">How to contact me: <a href="https://linkedin.com/in/el-tupac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="el-tupac" height="30" width="40" /></a></h3>
 
+
 {{ template "article-table" .Articles }}
