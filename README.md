@@ -75,6 +75,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R-P0cqC_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/st6iebuvm2of3jdgcz6i.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/decisiones-escalables-no-se-trata-solo-de-crear-tareas-3ob7">Decisiones escalables, no se trata solo de crear tareas</a>
+                <div>Artículo de la serie ¿Que es escalable?, Y que lo es en el desarrollo frontend?.  Foto de Scott...</div>
+                <div><i>07/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KgNh0cWy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k5i4hsjzqp5m2fwl1661.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/eltupac/comunicacion-escalable-esto-no-es-solo-codigo-55lp">Comunicación escalable, esto no es solo código</a>
