@@ -106,4 +106,12 @@
                 <div><i>06/09/2023</i></div>
             </td>
         </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--QiIpcit_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgwud99zxhi22y2vvbpa.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/organizacion-escalable-como-una-mala-rutina-solo-empeora-las-cosas-gja">Organización escalable, como una mala rutina solo empeora las cosas</a>
+                <div>Artículo de la serie ¿Que es escalable?, Y que lo es en el desarrollo frontend?.  Foto de Fab Lentz...</div>
+                <div><i>08/09/2023</i></div>
+            </td>
+        </tr>
 </table>
