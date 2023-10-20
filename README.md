@@ -75,6 +75,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BAIEsG-A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eakta2uq9wegs68xtvmq.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/sobreingenieria-y-el-mal-de-abstraer-todo-a-mi-alrededor-gkb">Sobreingeniería, y el mal de abstraer todo a mi alrededor</a>
+                <div>Artículo de la serie ¿Que es escalable?, Y que lo es en el desarrollo frontend?.  Foto de Wil Stewart...</div>
+                <div><i>11/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R-P0cqC_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/st6iebuvm2of3jdgcz6i.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/eltupac/decisiones-escalables-no-se-trata-solo-de-crear-tareas-3ob7">Decisiones escalables, no se trata solo de crear tareas</a>
@@ -104,14 +112,6 @@
                 <a href="https://dev.to/eltupac/que-es-escalable-y-que-lo-es-en-el-desarrollo-frontend-4loj">¿Que es escalable?, Y que lo es en el desarrollo...</a>
                 <div>Photo by Jacopo Maia on Unsplash     Esto será la introducción a una serie de artículos que iré...</div>
                 <div><i>06/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--QiIpcit_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgwud99zxhi22y2vvbpa.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/eltupac/organizacion-escalable-como-una-mala-rutina-solo-empeora-las-cosas-gja">Organización escalable, como una mala rutina solo empeora las cosas</a>
-                <div>Artículo de la serie ¿Que es escalable?, Y que lo es en el desarrollo frontend?.  Foto de Fab Lentz...</div>
-                <div><i>08/09/2023</i></div>
             </td>
         </tr>
 </table>
