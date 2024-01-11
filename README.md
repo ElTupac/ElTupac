@@ -75,6 +75,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hP9KSGph--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q75qb2glm5rk1dma8xri.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/eltupac/desarrollar-no-es-solo-codigo-2jmo">Desarrollar no es solo código</a>
+                <div>El pensamiento común que la gente suele tener es que la tarea de un desarrollador es prácticamente...</div>
+                <div><i>03/01/2024</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BAIEsG-A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eakta2uq9wegs68xtvmq.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/eltupac/sobreingenieria-y-el-mal-de-abstraer-todo-a-mi-alrededor-gkb">Sobreingeniería, y el mal de abstraer todo a mi alrededor</a>
@@ -104,14 +112,6 @@
                 <a href="https://dev.to/eltupac/que-no-es-escalabilidad-el-sentido-comun-de-lo-que-es-escalable-4lci">¿Que no es escalabilidad? El sentido común de lo que...</a>
                 <div>Foto de Artem Maltsev en Unsplash  Artículo de la serie ¿Que es escalable?, Y que lo es en el...</div>
                 <div><i>07/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GK19W7qa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuwjd63w9pi5v8t9kp6q.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/eltupac/que-es-escalable-y-que-lo-es-en-el-desarrollo-frontend-4loj">¿Que es escalable?, Y que lo es en el desarrollo...</a>
-                <div>Photo by Jacopo Maia on Unsplash     Esto será la introducción a una serie de artículos que iré...</div>
-                <div><i>06/09/2023</i></div>
             </td>
         </tr>
 </table>
